@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome!
 
-I'm glad you are here. I plan to talk about ...
+A static website for all my fan fiction. To be launched as a separate blog for my stories.
